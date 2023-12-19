@@ -1,1 +1,2 @@
-Tue Dec 19 12:03:17 UTC 2023
+date
+echo "thank you for putting in the time today, it shall serve you well"
